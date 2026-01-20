@@ -1,7 +1,3 @@
-
-**Minarsribabu/Minarsribabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 👋 Hi, I'm Balla Minar Sri Babu
 
 🚀 Backend Developer | Cloud & DevOps Enthusiast | AI & Cybersecurity Explorer  

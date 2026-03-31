@@ -68,10 +68,5 @@ I am eager to work on real production systems, contribute to meaningful projects
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minarsribabu&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Minarsribabu&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minarsribabu&theme=dark&hide_border=false&layout=compact)
 
 ---
